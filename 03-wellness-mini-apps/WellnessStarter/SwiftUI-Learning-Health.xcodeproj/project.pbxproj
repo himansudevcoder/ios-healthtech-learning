@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1D6D6F903073F3F0001CB05F /* WellnessStarter */ = {
+		1D6D6F903073F3F0001CB05F /* Health-and-Wellness-Practice-with-SwiftUI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = WellnessStarter;
+			path = "Health-and-Wellness-Practice-with-SwiftUI";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		1D6D6F853073F3F0001CB05F = {
 			isa = PBXGroup;
 			children = (
-				1D6D6F903073F3F0001CB05F /* WellnessStarter */,
+				1D6D6F903073F3F0001CB05F /* Health-and-Wellness-Practice-with-SwiftUI */,
 				1D6D6F8F3073F3F0001CB05F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1D6D6F903073F3F0001CB05F /* WellnessStarter */,
+				1D6D6F903073F3F0001CB05F /* Health-and-Wellness-Practice-with-SwiftUI */,
 			);
 			name = WellnessStarter;
 			packageProductDependencies = (
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1D6D6F893073F3F0001CB05F /* Build configuration list for PBXProject "WellnessStarter" */;
+			buildConfigurationList = 1D6D6F893073F3F0001CB05F /* Build configuration list for PBXProject "SwiftUI-Learning-Health" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -309,7 +309,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D6D6F893073F3F0001CB05F /* Build configuration list for PBXProject "WellnessStarter" */ = {
+		1D6D6F893073F3F0001CB05F /* Build configuration list for PBXProject "SwiftUI-Learning-Health" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D6D6F973073F3F1001CB05F /* Debug */,
