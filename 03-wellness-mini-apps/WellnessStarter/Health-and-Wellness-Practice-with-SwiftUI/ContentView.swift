@@ -4,8 +4,11 @@ struct ContentView: View {
     var body: some View {
 //        TextPractice()
 //        ImagePractice()
-          ButtonPractice()
+//          ButtonPractice()
+//        ModifierPractice()
+        LayoutPractice()
             }
+     
 }
 
 #Preview {
