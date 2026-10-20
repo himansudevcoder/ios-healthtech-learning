@@ -6,7 +6,8 @@ struct ContentView: View {
 //        ImagePractice()
 //          ButtonPractice()
 //        ModifierPractice()
-        LayoutPractice()
+//        LayoutPractice()
+        HealthProfileCard()
             }
      
 }
