@@ -7,7 +7,14 @@ struct ContentView: View {
 //          ButtonPractice()
 //        ModifierPractice()
 //        LayoutPractice()
-        HealthProfileCard()
+//        HealthProfileCard()
+//        CounterView()
+//        StateBoolPractice()
+//        StateStringPractice()
+//        StateConditionalPractice()
+//        StateAnimationPractice()
+        LikeButtonView()
+
             }
      
 }
