@@ -8,16 +8,22 @@ struct LikeButtonView: View {
     
     var body: some View {
         HStack {
-            Button("tap") {
-                count += 1
+                        
+            Button(action: {
+                isLiked.toggle()
+                if isLiked {
+                    count += 1
+                } else {
+                    count -= 1
+                }
+            }) {
+                Image(systemName: isLiked ? "heart.fill" : "heart")
+                
             }
             
-            Image(systemName: isLiked ? "heart.fill" : "heart")
-            
-            
-                        
             Text("\(count)")
                 .foregroundStyle(.red)
+
         }
     }
 }
